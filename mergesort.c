@@ -1,4 +1,3 @@
-// Fig. E.3: figE_03.c
 // The merge sort algorithm. 
 #define SIZE 10
 #include <stdio.h>
