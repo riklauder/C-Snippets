@@ -6,7 +6,7 @@
 ** project   : General Template                                           
 ** filename  : CPROGRAM.C                                                   
 ** version   : 1                                                           
-** date      : August 02, 2003                                             
+** date      :                                           
 **                                                                         
 *********************
  
@@ -14,7 +14,7 @@ VERSION HISTORY:
 ---------------- 
  
 Version     : 1 
-Date        : August 02, 2003 
+Date        : 
 Revised by  : xxxxxx
  
 */ 
